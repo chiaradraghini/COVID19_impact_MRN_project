@@ -7,3 +7,5 @@ The chosen approach has the following structure:
  - Clustering through the KMeans Classifier in an unsupervised Machine Learning environment, using January as reference. 
  - Focusing on a limited number of eNodeBs, selected from the KMeans clusters, we compared the different trends found in the three months taken into consideration, highlighting what happened because of the outbreak of the disease.  
  - Verifying the correctness and coherence of our results with other general information.
+
+Note: the biggest files were uploaded as ".zip", and can only be visible raw.
