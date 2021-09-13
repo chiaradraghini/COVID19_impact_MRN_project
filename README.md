@@ -8,4 +8,4 @@ The chosen approach has the following structure:
  - Focusing on a limited number of eNodeBs, selected from the KMeans clusters, we compared the different trends found in the three months taken into consideration, highlighting what happened because of the outbreak of the disease.  
  - Verifying the correctness and coherence of our results with other general information.
 
-Note: the biggest files were uploaded in this repository as ".zip", and can only be visible raw.
+Note: some of the files, due to their dimensions, are only available in their raw version, others were uploaded in this repository as ".zip", and can be visible if downloaded on the device.
